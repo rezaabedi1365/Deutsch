@@ -34,9 +34,6 @@ nehmen
 
 ![image](https://github.com/user-attachments/assets/d7f783ac-facb-4fec-93f3-0ee8b0fad997)
 
-### geboren
-- Ich bin in Tehran geboren .
-- Ihr seid in Hamborg geboren .
 
 ### Ordnungszahlen
 * am 11. November
@@ -52,3 +49,10 @@ nehmen
 * am Abend
 * die Nacht > in der Nacht
 
+### geboren
+- Ich bin in Tehran geboren .
+- Ihr seid in Hamborg geboren .
+
+### Das wetter
+- wie ist das wetter ?
+- 
