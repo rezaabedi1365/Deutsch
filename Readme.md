@@ -1,10 +1,10 @@
 # Lektion 7
 ### Partizip Perfect (mazi naghli)
 
-	- haben [bewegung]  
-		 *  regelma3ig     ge + verbstamm + t
-		 *  unregelma3ig     
-	- sein  [nicht bewegung] 
+- haben [bewegung]  
+	*  regelma3ig     ge + verbstamm + t
+	*  unregelma3ig     
+- sein  [nicht bewegung] 
 
 
 ### Wechseln Prapositionen
