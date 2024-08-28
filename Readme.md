@@ -44,7 +44,7 @@ nehmen
 * Am Montag
 * Am Freitag
 
- ### am + Tagezeiten
+ ### am + [die]Tagezeiten
 * am Morgen
 * am Abend
 * die Nacht > in der Nacht
