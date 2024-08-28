@@ -7,8 +7,15 @@
 - sein  [nicht bewegung] 
 
 
-
-
+### Präteritum (mazi Sadeh)
+waren
+* war
+* warst
+* war
+* waren
+* wart
+* waren
+  
 ### example
 gehen 
  * ich gehe in den park
@@ -54,7 +61,8 @@ nehmen
 - Ihr seid in Hamborg geboren .
 
 ### Das wetter
-- wie ist das wetter ?
+- wie ist das wetter in Tehran?
+- wie ists Tehran ?
 
 
 ## Himmelsrichtungen
