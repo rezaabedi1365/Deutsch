@@ -1,7 +1,8 @@
 # Lektion 7
 ### Partizip Perfect (mazi naghli)
 
-- haben [bewegung]  Create Dative & Akkusative
+- haben [bewegung]
+- Create wo? Dative & wohin ?Akkusative
 	*  regelma3ig     ge + verbstamm + t
 	*  unregelma3ig     
 - sein  [nicht bewegung] 
@@ -23,3 +24,5 @@
 ### geboren
 - Ich bin in Tehran geboren .
 - Ihr seid in Hamborg geboren .
+
+### 
