@@ -7,6 +7,20 @@
 - sein  [nicht bewegung] 
 
 
+
+
+### example
+gehen 
+ * ich gehe in den park
+ * ich gehe in die gym
+ * ich gehe in das / ins Kino.
+
+nehmen
+ * ich nehme den Bus
+ * ich nehme die U-Bahn
+ * ich nehme das Taxi
+
+   
 ### Wechseln Prapositionen
   * auf
   * vor
@@ -15,7 +29,7 @@
   * neben
   * hinter
   * unter
-  * uber
+  * uber   +  Akk
   * zwischen
 
 ![image](https://github.com/user-attachments/assets/d7f783ac-facb-4fec-93f3-0ee8b0fad997)
