@@ -55,4 +55,15 @@ nehmen
 
 ### Das wetter
 - wie ist das wetter ?
-- 
+
+
+## Himmelsrichtungen
+![image](https://github.com/user-attachments/assets/3099a666-c6c8-44a1-9ff5-de2cc7834af2)
+
+
+## richtungen
+![image](https://github.com/user-attachments/assets/b1981830-5367-4978-95a4-db25930cd218)
+
+![image](https://github.com/user-attachments/assets/5f5f1784-b4f7-4179-8686-d035525b44b9)
+
+
