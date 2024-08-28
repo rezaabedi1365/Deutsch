@@ -1,8 +1,7 @@
 # Lektion 7
 ### Partizip Perfect (mazi naghli)
 
-- haben [bewegung]
-- Create wo? Dative & wohin ?Akkusative
+- haben [bewegung]        Create wo? Dative & wohin ?Akkusative
 	*  regelma3ig     ge + verbstamm + t
 	*  unregelma3ig     
 - sein  [nicht bewegung] 
