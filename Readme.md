@@ -38,4 +38,7 @@ nehmen
 - Ich bin in Tehran geboren .
 - Ihr seid in Hamborg geboren .
 
-### 
+### Ordnungszahlen
+![image](https://github.com/user-attachments/assets/6e17a9e6-0bb4-4d4b-b29c-51d33e89187c)
+
+
