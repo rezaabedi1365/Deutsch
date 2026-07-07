@@ -2,6 +2,7 @@
 - Ich möchte gerne wissen, ob du ...
 - Ich möchte dich gerne fragen, ob du ...
 - zu
+- Es lohnt sich, Persisch zu lernen
 - trotzdem
 - deshalb
 
