@@ -201,12 +201,17 @@ Du magst keine Grammatik, trotzdem solltest du immer mal wieder Übungen machen.
 ```
 TIPPS FÜR SPANISCHLERNER
 
-Mein Lieblingstipp ist: Schau Filme auf Spanisch! Ich habe viele spanische Serien gesehen. Am Anfang habe ich nicht alles verstanden, trotzdem habe ich weitergeschaut. Es macht Spaß und man lernt die Sprache im Alltag. Das ist meine beste Erfahrung!
+Mein Lieblingstipp ist: Schau Filme auf Spanisch! Ich habe viele spanische Serien gesehen.
+Am Anfang habe ich nicht alles verstanden, trotzdem habe ich weitergeschaut.
+Es macht Spaß und man lernt die Sprache im Alltag. Das ist meine beste Erfahrung!
 ```
 
-نکته‌هایی برای یادگیرندگان اسپانیایی
 
-بهترین نکتهٔ من این است: فیلم‌های اسپانیایی تماشا کن! من سریال‌های اسپانیایی زیادی دیدم. در ابتدا همه چیز را نفهمیدم، با این حال به تماشا ادامه دادم. این کار سرگرم‌کننده است و آدم زبان را در زندگی روزمره یاد می‌گیرد. این بهترین تجربهٔ من است!
+
+نکته‌هایی برای یادگیرندگان اسپانیایی
+بهترین نکتهٔ من این است: فیلم‌های اسپانیایی تماشا کن! من سریال‌های اسپانیایی زیادی دیدم. در ابتدا همه چیز را نفهمیدم، با این حال به تماشا ادامه دادم. این کار سرگرم‌کننده است و آدم زبان را در زندگی روزمره یاد می‌گیرد. این بهترین تجربهٔ من است
+
+!
 ------------------------------------------------------------------
 مرین نوشتاری شماره ۱۰ (صفحه ۲۰، تمرین ۱ - Grammatik Xpress)
 موضوع: "deshalb" یا "trotzdem"؟ جای خالی را پر کنید.
