@@ -1,5 +1,5 @@
 # Fremde Sprachen 
-مرین نوشتاری شماره ۱:
+تمرین نوشتاری شماره ۱:
 کتاب صفحه ۱۱، تمرین ۵
 موضوع: درباره خودتان ۵ جمله بنویسید. (مثل جملاتی که درباره هانا در تمرین ۳ بود)
 راهنما: می‌توانید درباره این چیزها بنویسید:
@@ -47,21 +47,20 @@ Ich weiß nicht, ob ich eine Chance für die Auswanderung habe oder nicht.
 Mein Name ist Reza. Ich wohne in Teheran. Ich bin 40 Jahre alt. Ich studiere IT und habe einen Master-Abschluss. Ich bin 1986 geboren. Ich habe mit 18 geheiratet, vor 22 Jahren. Ich habe 3 Kinder: zwei Söhne und eine Tochter. Mein großer Sohn Armia ist 2014 geboren und ist 12 Jahre alt. Mein kleiner Sohn Arshan ist 2016 geboren und ist 10 Jahre alt. Meine Tochter Ardina ist 2010 geboren und ist 15 Jahre alt. Meine Frau heißt Zahra. Ich arbeite seit 2010 in Fardis. Meine Hobbys sind Schwimmen, Fußball und Finanzhandel. Ich habe eine Schwester und einen Bruder. Mein Vater ist vor 7 Jahren gestorben. Meine Mutter lebt in Parand. Mein Arbeitsplatz ist in Teheran und ich wohne in Karaj. Ich wache um 5:00 Uhr auf und fahre mit dem Bus zur Arbeit. Ich arbeite täglich von 8 bis 3 Uhr. Ich bin täglich um 3 Uhr auf dem Weg nach Hause. Ich esse gerne Ghormesabzi, Makaroni und Kabab. Ich habe ein Auto und eine Wohnung. Ich möchte nach Deutschland auswandern. Ich lerne Deutsch. Ich weiß nicht, ob ich eine Chance für die Auswanderung habe oder nicht.
 ```
 -------------------------------------------------
-مرین نوشتاری شماره ۲:
+تمرین نوشتاری شماره ۲:
 کتاب صفحه ۱۲، تمرین ۸
 موضوع: با استفاده از کلمات داده شده، سوالات را در دفترتان بنویسید.
 کلمات داده شده:
-eine Stunde frühstücken
-ein Auto haben
-Kinder haben
-mehr als zwei Sprachen sprechen
-ein Musikinstrument spielen
-راهنما: باید با این ساختار شروع کنید:
+- eine Stunde frühstücken
+- ein Auto haben
+- Kinder haben
+- mehr als zwei Sprachen sprechen
+- ein Musikinstrument spielen
+راهنما: باید با این ساختار شروع کنید
+```
 Ich möchte gerne wissen, ob du ...
-یا Ich möchte dich gerne fragen, ob du ...
-
-
-
+Ich möchte dich gerne fragen, ob
+```
 
 
 
