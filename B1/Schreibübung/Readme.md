@@ -59,7 +59,13 @@ Mein Name ist Reza. Ich wohne in Teheran. Ich bin 40 Jahre alt. Ich studiere IT 
 راهنما: باید با این ساختار شروع کنید
 ```
 Ich möchte gerne wissen, ob du ...
-Ich möchte dich gerne fragen, ob
+(می‌خواهم بدانم که آیا تو...)
+
+
+Ich möchte dich gerne fragen, ob ...
+(می‌خواهم از تو بپرسم که آیا تو...)
+
+
 ```
 
 
