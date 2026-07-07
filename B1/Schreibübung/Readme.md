@@ -106,7 +106,9 @@ Ich möchte gerne wissen, ob du ein Musikinstrument spielst.
 چند مزیت آن را توضیح دهید
 
 ```
-Du, David, ich habe einen Text mit dem Titel "Welche Sprache würden Aliens lernen?" gelesen und ich denke, du solltest Spanisch lernen! Es hat viele Vorteile. Die Aussprache ist einfach und viele Menschen sprechen es. Es lohnt sich, Spanisch zu lernen!
+Du, David, ich habe einen Text mit dem Titel "Welche Sprache würden Aliens lernen?"
+gelesen und ich denke, du solltest Spanisch lernen! Es hat viele Vorteile.
+Die Aussprache ist einfach und viele Menschen sprechen es. Es lohnt sich, Spanisch zu lernen!
 ```
 
 «دیوید، من یک متن با عنوان «بیگانگان چه زبانی را یاد می‌گرفتند؟» خواندم و فکر می‌کنم که تو باید اسپانیایی یاد بگیری! این زبان مزایای زیادی دارد. تلفظش ساده است و خیلی از مردم به آن صحبت می‌کنند. ارزشش را دارد که اسپانیایی یاد بگیری!»
@@ -160,7 +162,9 @@ Findest du es interessant, einen Sprachkurs im Ausland zu besuchen?
 ```
 عنوان: Persisch – Die Sprache der Poesie!
 
-متن: Es lohnt sich, Persisch zu lernen, denn es ist eine sehr alte und schöne Sprache. Über 100 Millionen Menschen sprechen Persisch. Die Grammatik ist nicht so schwer. Lernen Sie Persisch!
+
+متن: Es lohnt sich, Persisch zu lernen, denn es ist eine sehr alte und schöne Sprache.
+Über 100 Millionen Menschen sprechen Persisch. DieGrammatik ist nicht so schwer. Lernen Sie Persisch!
 ```
 -------------------------------------------------------------------
 مرین نوشتاری شماره ۴ (صفحه ۱۴، تمرین ۹)
