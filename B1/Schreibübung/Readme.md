@@ -1,4 +1,9 @@
 # Fremde Sprachen 
+- Ich möchte gerne wissen, ob du ...
+- Ich möchte dich gerne fragen, ob du ...
+- zu
+- trotzdem
+- deshalb
 تمرین نوشتاری شماره ۱:
 کتاب صفحه ۱۱، تمرین ۵
 موضوع: درباره خودتان ۵ جمله بنویسید. (مثل جملاتی که درباره هانا در تمرین ۳ بود)
@@ -76,7 +81,12 @@ Ich möchte dich gerne fragen, ob ...
 
 
 ```
-
+Ich möchte gerne wissen, ob du eine Stunde frühstückst.
+Ich möchte dich gerne fragen, ob du ein Auto hast.
+Ich möchte gerne wissen, ob du Kinder hast.
+Ich möchte dich gerne fragen, ob du mehr als zwei Sprachen sprichst.
+Ich möchte gerne wissen, ob du ein Musikinstrument spielst.
+```
 
 
 
@@ -92,7 +102,11 @@ Ich möchte dich gerne fragen, ob ...
 یک زبان خاص را پیشنهاد دهید
 چند مزیت آن را توضیح دهید
 
+```
+Du, David, ich habe einen Text mit dem Titel "Welche Sprache würden Aliens lernen?" gelesen und ich denke, du solltest Spanisch lernen! Es hat viele Vorteile. Die Aussprache ist einfach und viele Menschen sprechen es. Es lohnt sich, Spanisch zu lernen!
+```
 
+«دیوید، من یک متن با عنوان «بیگانگان چه زبانی را یاد می‌گرفتند؟» خواندم و فکر می‌کنم که تو باید اسپانیایی یاد بگیری! این زبان مزایای زیادی دارد. تلفظش ساده است و خیلی از مردم به آن صحبت می‌کنند. ارزشش را دارد که اسپانیایی یاد بگیری!»
 
 
 
@@ -105,24 +119,31 @@ Ich möchte dich gerne fragen, ob ...
 کتاب صفحه ۱۴، تمرین ۹
 موضوع: ۵ سوال با ساختار "مصدر با zu" بنویسید.
 کلمات داده شده برای استفاده:
-noch eine Sprache lernen
-die B1-Prüfung machen
-einen Intensivkurs machen
-einen Konversationskurs besuchen
-Französisch lernen
-ein Buch auf Deutsch lesen
-eine Fantasie-Sprache lernen
-einen Sprachkurs im Ausland besuchen
+- noch eine Sprache lernen
+- die B1-Prüfung machen
+- einen Intensivkurs machen
+- einen Konversationskurs besuchen
+- Französisch lernen
+- ein Buch auf Deutsch lesen
+- eine Fantasie-Sprache lernen
+- einen Sprachkurs im Ausland besuchen
 ساختارهای داده شده:
-Hast du Zeit, ...?
-Hast du Lust, ...?
-Hast du vor, ...?
-Planst du, ...?
-Lohnt es sich (nicht), ...?
-Ist es leicht / schwer, ...?
-Findest du es toll / interessant, ...?
-Findest du es langweilig, ...?
+- Hast du Zeit, ...?
+- Hast du Lust, ...?
+- Hast du vor, ...?
+- Planst du, ...?
+- Lohnt es sich (nicht), ...?
+- Ist es leicht / schwer, ...?
+- Findest du es toll / interessant, ...?
+- Findest du es langweilig, ...?
 
+```
+Hast du Zeit, noch eine Sprache zu lernen?
+Hast du vor, die B1-Prüfung zu machen?
+Planst du, einen Intensivkurs zu besuchen?
+Ist es leicht, Französisch zu lernen?
+Findest du es interessant, einen Sprachkurs im Ausland zu besuchen?
+```
 
 
 ----------------------------------------------------------------
@@ -133,5 +154,61 @@ Findest du es langweilig, ...?
 یک عنوان جذاب برای پوستر انتخاب کنید
 حداقل ۳ دلیل بیاورید
 از ساختار "Es lohnt sich, ... zu lernen" استفاده کنید
+```
+عنوان: Persisch – Die Sprache der Poesie!
 
+متن: Es lohnt sich, Persisch zu lernen, denn es ist eine sehr alte und schöne Sprache. Über 100 Millionen Menschen sprechen Persisch. Die Grammatik ist nicht so schwer. Lernen Sie Persisch!
+```
+-------------------------------------------------------------------
+مرین نوشتاری شماره ۴ (صفحه ۱۴، تمرین ۹)
+موضوع: ۵ سوال با ساختار "مصدر با zu" بنویسید.
 
+پاسخ شما (تصحیحشده):
+```
+Hast du Zeit, noch eine Sprache zu lernen?
+Hast du vor, die B1-Prüfung zu machen?
+Planst du, einen Intensivkurs zu besuchen?
+Ist es leicht, Französisch zu lernen?
+Findest du es interessant, einen Sprachkurs im Ausland zu besuchen?
+```
+
+-------------------------------------------------------------------
+مرین نوشتاری شماره ۸ (صفحه ۱۸، تمرین ۸)
+موضوع: جملات را با "trotzdem" کامل کنید.
+
+پاسخ شما (تصحیحشده):
+```
+Du hast keine Zeit, trotzdem solltest du täglich zehn Minuten lernen.
+Du bist am Abend müde, trotzdem solltest du regelmäßig in den Deutschkurs gehen.
+Du machst viele Fehler, trotzdem sollst du mit den Leuten sprechen.
+Du magst keine Grammatik, trotzdem solltest du immer mal wieder Übungen machen.
+```
+
+------------------------------------------------------------------
+مرین نوشتاری شماره ۹ (صفحه ۱۸، تمرین ۹)
+موضوع: نکته مورد علاقه خود را برای یادگیری زبان بنویسید.
+
+پاسخ شما (تصحیحشده):
+
+```
+TIPPS FÜR SPANISCHLERNER
+
+Mein Lieblingstipp ist: Schau Filme auf Spanisch! Ich habe viele spanische Serien gesehen. Am Anfang habe ich nicht alles verstanden, trotzdem habe ich weitergeschaut. Es macht Spaß und man lernt die Sprache im Alltag. Das ist meine beste Erfahrung!
+```
+
+نکته‌هایی برای یادگیرندگان اسپانیایی
+
+بهترین نکتهٔ من این است: فیلم‌های اسپانیایی تماشا کن! من سریال‌های اسپانیایی زیادی دیدم. در ابتدا همه چیز را نفهمیدم، با این حال به تماشا ادامه دادم. این کار سرگرم‌کننده است و آدم زبان را در زندگی روزمره یاد می‌گیرد. این بهترین تجربهٔ من است!
+------------------------------------------------------------------
+مرین نوشتاری شماره ۱۰ (صفحه ۲۰، تمرین ۱ - Grammatik Xpress)
+موضوع: "deshalb" یا "trotzdem"؟ جای خالی را پر کنید.
+
+پاسخ شما (تصحیحشده):
+
+```
+Ich möchte gerne mein Deutsch verbessern, deshalb habe ich den B1-Kurs gebucht.
+Vormittags und nachmittags muss ich arbeiten, deshalb habe ich einen Abendkurs gewählt.
+Manchmal bin ich abends ein bisschen müde, trotzdem besuche ich den Kurs regelmäßig.
+Die B1-Prüfung ist wichtig für meine Arbeit, deshalb مache ich jetzt schon das Prüfungstraining.
+Ich lerne viel, trotzdem ist die Prüfung eine große Herausforderung.
+```
